@@ -27,7 +27,13 @@ Finally a covering is fastened over the top to keep residual heat inside the enc
 *Initially, I only had red-primer and polythene sheet. This has now been finished with Matt Black paint (including the hose) and a 90x90 cm solid polycarbonate sheet.*
 
 
-The pump is a small 12volt DC submersible type with a 12mm spiggot. This spiggot is fractionally too small for a good friction fit with the hose so a small amount of self amalgamating tape and a spring clip helps secure the hose in place.
+The pump is a small 12volt DC submersible type with a 12mm spiggot. 
+
+<img src="/PoolPi/images/pump.jpg" width="200" /> 
+
+This spiggot is fractionally too small for a good friction fit with the hose so a small amount of self amalgamating tape and a spring clip helps secure the hose in place.
+
+<img src="/PoolPi/images/spiggot.jpg" width="200" /> 
 
 The outlet end of the hose is trimmed 150mm shorter than the base of the inlet in an attempt to stop the pump drawing too much of the freshly heated water back into the coil.
 
@@ -35,5 +41,7 @@ A small hole was made in the side of each hose with a soldering iron and a lengt
 Each end of the hose then had a DS18B20 sensor tied to the drawstring. The sensor end had a 'bulb' of self amalgamating tape wound around to to form a partial plug when drawn up into the hole.
 
 The sensor cable was then secured with a few wraps of self amalgamating tape to bond with the internal plug forming a waterproof seal.
+
+<img src="/PoolPi/images/sensorjoint.jpg" width="200" /> 
 
 **Note:** *It is not essential that the joints are water tight. Both of these joints are below the waterlevel of the pool and since the pressure and flow rates of this system are low an imperfect joint is not the end of the world.*
