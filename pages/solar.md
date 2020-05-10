@@ -24,7 +24,7 @@ Finally a covering is fastened over the top to keep residual heat inside the enc
 
 <img src="/PoolPi/images/covered.jpg" width="200" /> 
 
-** Initially, I only had red-primer and polythene sheet. This has now been finished with Matt Black paint (including the hose) and a 90x90 cm solid polycarbonate sheet. **
+*Initially, I only had red-primer and polythene sheet. This has now been finished with Matt Black paint (including the hose) and a 90x90 cm solid polycarbonate sheet.*
 
 
 The pump is a small 12volt DC submersible type with a 12mm spiggot. This spiggot is fractionally too small for a good friction fit with the hose so a small amount of self amalgamating tape and a spring clip helps secure the hose in place.
@@ -36,4 +36,4 @@ Each end of the hose then had a DS18B20 sensor tied to the drawstring. The senso
 
 The sensor cable was then secured with a few wraps of self amalgamating tape to bond with the internal plug forming a waterproof seal.
 
-Note, It is not essential that the joints are water tight. Both of these joints are below the waterlevel of the pool and since the pressure and flow rates of this system are low an imperfect joint is not the end of the world.
+**Note:** *It is not essential that the joints are water tight. Both of these joints are below the waterlevel of the pool and since the pressure and flow rates of this system are low an imperfect joint is not the end of the world.*
