@@ -2,9 +2,8 @@
 ### Splunk Controled HotTub
 
 
-You can use the [editor on GitHub](https://github.com/htsuk-ltd/PoolPi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project uses Splunk to control certain features of my Lay-Z-Spa Hottub. 
+The main objective was to allow me to integrate an element of renewable energy heating (Solar) to suppliment the 2kw electric heating elements, and help reduce the cost of keeping my hot tub at the perfect temperature.
 
 ### Markdown
 
