@@ -32,13 +32,11 @@ import os
 import glob
 import time
 
-
 from datetime import datetime
 # Initialize the GPIO Pins
 
 os.system('modprobe w1-gpio')  # Turns on the GPIO module
 os.system('modprobe w1-therm') # Turns on the Temperature module
-
 
 # A function that reads the sensors data
 def read_temp_raw(device):
