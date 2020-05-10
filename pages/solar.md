@@ -7,6 +7,7 @@ Take a lenth of garden hose, form it into a coil, put it in the sun and push som
 I started off with a length of approx 50m of 1/2 inch standard garden hose wound into a loose spiral. To secure the coil so that it would not uncoil I used some metal strapping and fastened the host to it with some wire. This allows you to keep the coil flat and consistent and means you can move it around with some core.
 
 ![Solar Coil](/images/coil.jpg)
+<img src="/images/coil.jpg" width="200" height="200" /> 
 
 An exposed coil will work just in this configuration, but to improve the efficiency of the energy transfer you want to put the coil in an enclosure.
 
