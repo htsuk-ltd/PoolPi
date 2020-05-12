@@ -17,15 +17,13 @@ My frame is approx 90cm x 90cm and has a 12mm OSB board for the base.
 The box is primed with spray paint and the coil is then screwed using the metal straps to the base. Two 22mm holes are drilled in the side to allow the flow/return pipes to pass into the enclosure.
 
 <img src="/PoolPi/images/enclosure.jpg" width="200" /> 
+<img src="/PoolPi/images/black.jpg" width="200" /> 
 
 A DS18B20 sensor is attached in the middle of the enclosure and runs outside via the same path as the hose.
 
 Finally a covering is fastened over the top to keep residual heat inside the enclosure. 
 
-<img src="/PoolPi/images/covered.jpg" width="200" /> 
-
-*Initially, I only had red-primer and polythene sheet. This has now been finished with Matt Black paint (including the hose) and a 90x90 cm solid polycarbonate sheet.*
-
+<img src="/PoolPi/images/poly.jpg" width="200" />
 
 The pump is a small 12volt DC submersible type with a 12mm spiggot. 
 
